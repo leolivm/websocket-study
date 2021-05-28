@@ -46,6 +46,6 @@ $ yarn typeorm migration:run
 $ yarn dev
 ```
 
-# You can check the application at `http://localhost:3333/pages/admin` and `http://localhost:3333/pages/client`
+### You can check the application at `http://localhost:3333/pages/admin` and `http://localhost:3333/pages/client`
 
 Made with 💜 by Leandro Martins 👋 [See my linkedin](https://www.linkedin.com/in/leandro-martins-0640921a4/)
